@@ -1,7 +1,9 @@
 **TUGAS PERTEMUAN 1 LOGIKA INFORMATIKA**
 
 **Nama : Felix Amon Sitinjak**
+
 **NIM : 312410063**
+
 **Kelas : TI.24.A1**
 
 1. Sebuah jasa pengiriman memiliki aturan biaya yang bergantung pada beberapa faktor. Biaya dasar pengiriman ditetapkan sebesar Rp 10.000.
@@ -110,4 +112,5 @@ if __name__ == "__main__":
 
 
 **Output**
+
 <img width="786" alt="image" src="https://github.com/user-attachments/assets/a2f96ab4-4218-443f-a23e-336d94381059" />
